@@ -3,8 +3,8 @@
 --
 ## Instructions:
 
-1. `git clone https://github.com/happyastronaut/neo-js.git`
+1. `git clone https://github.com/happyastronaut/neo-js-.git`
 2. `cd neo-js`
-3. `npm i @cityofzion/neon-js-kit`
+3. `npm i @cityofzion/neon-js`
 
 *Licensed under [MIT License](LICENSE)*
